@@ -16,18 +16,18 @@ private:
 	string m_strEGN;
 	string m_strName;
 public:
-	CPerson() { //Default
+	CPerson() { 
 		m_strName = "N/A";
 		m_strEGN = "N/A";
 	}
-	CPerson (const string& strName, const string& strEGN) : //Explicit
+	CPerson (const string& strName, const string& strEGN) : 
 		m_strName(strName),
 		m_strEGN(strEGN)
 	{}
 
 	//Operators
 	bool operator < (const CPerson& obj) const {  // sort, set_difference
-		return (m_strEGN < obj.m_strEGN);         //if i create a get(), put obj.getEGN()
+		return (m_strEGN < obj.m_strEGN);         
 	}
 	bool operator == (const CPerson& obj) const { // unique_copy 
 		return (m_strEGN == obj.m_strEGN);
@@ -54,7 +54,7 @@ public:
 		m_person = c;
 	}
 	CCity(const char* filename) {
-		ifstream ifile(filename); //fstream (filename, ios_base::in) ?
+		ifstream ifile(filename); //fstream (filename, ios_base::in) 
 		if (ifile.good()) {
 			Input(ifile);
 			ifile.close();
