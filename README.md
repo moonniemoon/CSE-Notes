@@ -14,4 +14,4 @@
 [Code](EGN.cpp)
 
 ### Lottery Guessing
-
+[Code](Lottery.cpp)
