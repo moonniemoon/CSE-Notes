@@ -11,7 +11,7 @@
 [Code](LicensePlate.cpp)
 
 ### EGN
-
+[Code](EGN.cpp)
 
 ### Lottery Guessing
 
