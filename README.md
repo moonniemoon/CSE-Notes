@@ -1,7 +1,7 @@
 # CSE - Notes
 ## C++ 
 ### Library Management System 
-[Code](CSE-Notes/library.cpp)
+[Code](Library.cpp)
 ### Car Radar 
 
 ### Car License Plate Check
