@@ -1,4 +1,3 @@
-//112 -19621447 -kst1a
 #include <iostream>
 #include <string>
 #include <algorithm>
@@ -91,11 +90,11 @@ public:
 		if (findRadar(RegNum)) {
 			// register the car with the highest speed (replace it with the new data)
 		
-			CRadar temp_car(RegNum, Speed);                                  // 3029, 90
-			CRadar temp(RegNum, findRadar(RegNum));                          // 3029, 62
+			CRadar temp_car(RegNum, Speed);                                  
+			CRadar temp(RegNum, findRadar(RegNum));                        
 
 			if (temp_car.getSpeed() > temp.getSpeed()) {
-				replace(database.begin(), database.end(), temp, temp_car);   // 3029 62 stava -> 3029 90
+				replace(database.begin(), database.end(), temp, temp_car);   
 			}
 		}
 		else { // if car not found in the list
