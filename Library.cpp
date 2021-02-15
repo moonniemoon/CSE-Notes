@@ -131,8 +131,8 @@ public:
 		}
 		return available;
 	}
-	vector<LibraryBook> UnvailableBooks(const int& stelaj_no) {  // I can add this func. as "else" to the "AvailableBooks" function
-																	// but the question says create another function? -not specified detailly
+	vector<LibraryBook> UnvailableBooks(const int& stelaj_no) {  
+																	
 		vector<LibraryBook> available;
 		pair<multimap<int, LibraryBook>::iterator, multimap<int, LibraryBook>::iterator> res;
 		res = mmap_location.equal_range(stelaj_no);
