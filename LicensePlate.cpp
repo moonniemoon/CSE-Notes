@@ -19,19 +19,19 @@ protected:
 	string m_strRegNumber;
 	string m_strOwner;
 public:
-	Car() { //Default
+	Car() { 
 		m_iPower = 0;
 		m_strModel = "Unknown";
 		m_strRegNumber = "Unknown";
 		m_strOwner = "Unknown";
 	}
-	Car(const int& iPower, const string& strModel, const string& strRegNumber, const string& strOwner) { //Explicit
+	Car(const int& iPower, const string& strModel, const string& strRegNumber, const string& strOwner) { 
 		m_iPower = iPower;
 		m_strModel = strModel;
 		m_strRegNumber = strRegNumber;
 		m_strOwner = strOwner;
 	}
-	Car(const Car& c) { // Copy
+	Car(const Car& c) { 
 		m_iPower = c.m_iPower;
 		m_strModel = c.m_strModel;
 		m_strRegNumber = c.m_strRegNumber;
@@ -158,7 +158,7 @@ class Register {
 private:
 	list <Car> database;
 public:
-	Register(const char* filename) {                //Explicit C. with param. file name
+	Register(const char* filename) {               
 		fstream ifile(filename, ios_base::in); //ifstream ifile(filename);
 		if (ifile.good()) {
 			copy(istream_iterator<Car>(ifile), istream_iterator<Car>(), back_inserter(database));
@@ -178,7 +178,7 @@ public:
 		}
 	}
 
-	list<Car> code_to_carlist(const string& code) {     // Creates - Returns list of objects car (par. City code)
+	list<Car> code_to_carlist(const string& code) {     // Creates - Returns list of objects car (parameter. City code)
 		list<Car> result;
 		Car::city_code = code;
 		copy_if(database.begin(), database.end(), back_inserter(result), Car::is_equal_codes);
