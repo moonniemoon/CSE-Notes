@@ -1,4 +1,3 @@
-// 19621447 - 1A - KST - SELIN TAHSIN KAYAR - zadanie 4
 #include <iostream>
 #include <fstream>
 #include <map>
@@ -44,7 +43,6 @@ public:
 		m_bSituation = 0; 
 	}
 
-	// operator == (check's every data)
 	bool operator == (const LibraryBook& obj) {
 		return ((m_strName == obj.m_strName) && (m_strAuthor == obj.m_strAuthor) && (m_bSituation == obj.m_bSituation));
 	}
