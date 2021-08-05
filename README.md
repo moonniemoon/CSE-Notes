@@ -1,10 +1,10 @@
 # CSE - Notes
 ## C++ 
 
-| Project                         | Code                     |
-| ------------------------------- |:------------------------:| 
-| Library Management System       | [Code](Library.cpp)      | 
-| Car Radar                       | [Code](Radar.cpp)        |
-| Car License Plate Check         | [Code](LicensePlate.cpp) |
-| EGN Check                       | [Code](EGN.cpp)          |
-| Lottery Guessing                | [Code](Lottery.cpp)      |
+| Project                         | Code                     | Documentation [BG]  |
+| ------------------------------- |:------------------------:| :------------------:|
+| Library Management System       | [Code](Library.cpp)      | [Documentation]     |
+| Car Radar                       | [Code](Radar.cpp)        |                     |
+| Car License Plate Check         | [Code](LicensePlate.cpp) |                     |
+| EGN Check                       | [Code](EGN.cpp)          |                     |
+| Lottery Guessing                | [Code](Lottery.cpp)      |                     |
