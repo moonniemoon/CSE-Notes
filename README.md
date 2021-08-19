@@ -9,3 +9,15 @@
 | Car License Plate Check         | [Code](LicensePlate.cpp) |                     |
 | EGN Check                       | [Code](EGN.cpp)          |                     |
 | Lottery Guessing                | [Code](Lottery.cpp)      |                     |
+
+
+## JAVA 
+
+| Project                         | Code                     | Documentation [BG]  |
+| ------------------------------- |:------------------------:| :------------------:|
+
+
+## Windows Desktop Application (C++)
+
+| Project                         | Code                     | Documentation [BG]  |
+| ------------------------------- |:------------------------:| :------------------:|
