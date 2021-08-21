@@ -19,5 +19,5 @@
 
 ## Windows Desktop Application (C++)
 
-| Project                         | Code                     | Documentation [BG]  |
+| Project                         | Code                     | Screenshots         |
 | ------------------------------- |:------------------------:| :------------------:|
