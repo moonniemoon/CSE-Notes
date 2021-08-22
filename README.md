@@ -2,7 +2,7 @@
 ## C++ 
 
 | Project                         | Code                     | Documentation [BG]  |
-| ------------------------------- |:------------------------:| :------------------:|
+| "-----------------------------: |:------------------------:| :------------------:|
 | Airport Management System       | [Code](FINAL/FINAL/Source.cpp)      | [Documentation](Documentation.pdf)     |
 | Library Management System       | [Code](Library.cpp)      | [Documentation](Semester_Project.pdf)     |
 | Car Radar                       | [Code](Radar.cpp)        |          -          |
@@ -13,7 +13,7 @@
 
 ## JAVA 
 
-| Project                         | Code                     | Documentation [BG]  |
+| Project                         | Code                     | Description [BG]    |
 | ------------------------------- |:------------------------:| :------------------:|
 
 
