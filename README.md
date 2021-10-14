@@ -27,4 +27,4 @@
 
 | Project                         | Code                     | Screenshots         |
 | ------------------------------- |:------------------------:| :------------------:|
-| LAB 1.1                         | [Code]                   | [Screenshot](Windows-Forms/LAB1/Screenshots/LAB1-1.md)     |
+| LAB 1.1                         | [Code](Windows-Forms/LAB1/Upr 1.1/Upr 1.1/Form1.cs) | [Screenshot](Windows-Forms/LAB1/Screenshots/LAB1-1.md)     |
