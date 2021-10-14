@@ -27,4 +27,4 @@
 
 | Project                         | Code                     | Screenshots         |
 | ------------------------------- |:------------------------:| :------------------:|
-| LAB 1 - 06/10/21                | [Code]                   | [Screenshot](Windows Forms SS/LAB 1/Screenshot 2021-10-14 140927.png)     |
+| LAB 1 - 06/10/21                | [Code]                   | [Screenshot](Windows Forms SS/LAB 1)     |
