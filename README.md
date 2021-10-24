@@ -32,7 +32,7 @@
 | LAB 2.2                         | [Code](Windows-Forms/LAB2/LAB2-2code/Form1.cs) | [Screenshot](Windows-Forms/LAB2/Screenshots/LAB2-2.md)     |
 | LAB 2.3                         | [Code](Windows-Forms/LAB2/LAB2-3code/Form1.cs) | [Screenshot](Windows-Forms/LAB2/Screenshots/LAB2-3.md)     |
 | LAB 2.4                         | [Code](Windows-Forms/LAB2/LAB2-4code/Form1.cs) | [Screenshot](Windows-Forms/LAB2/Screenshots/LAB2-4.md)     |
-| LAB 3                           | [Code](Windows-Forms/LAB2/LAB2-4code/Form1.cs) | [Screenshot](Windows-Forms/LAB2/Screenshots/LAB2-4.md)     |
-| ↳                               | [Code](Windows-Forms/LAB2/LAB2-4code/Form1.cs) | [Screenshot](Windows-Forms/LAB2/Screenshots/LAB2-4.md)     |
-| ↳                               | [Code](Windows-Forms/LAB2/LAB2-4code/Form1.cs) | [Screenshot](Windows-Forms/LAB2/Screenshots/LAB2-4.md)     |
-| ↳                               | [Code](Windows-Forms/LAB2/LAB2-4code/Form1.cs) | [Screenshot](Windows-Forms/LAB2/Screenshots/LAB2-4.md)     |
+| LAB 3                           | [Code](Windows-Forms/LAB3/LAB3-code/Form1.cs) | [Screenshot](Windows-Forms/LAB3/Screenshots/LAB3-1.md)     |
+| ↳                               | [Code](Windows-Forms/LAB3/LAB3-code/Form2.cs) | [Screenshot](Windows-Forms/LAB3/Screenshots/LAB3-2.md)     |
+| ↳                               | [Code](Windows-Forms/LAB3/LAB3-code/Form3.cs) | [Screenshot](Windows-Forms/LAB3/Screenshots/LAB3-3.md)     |
+| ↳                               | [Code](Windows-Forms/LAB3/LAB3-code/Form4.cs) | [Screenshot](Windows-Forms/LAB3/Screenshots/LAB3-4.md)     |
