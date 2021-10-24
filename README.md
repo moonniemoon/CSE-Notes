@@ -38,6 +38,6 @@
 | ↳                               | [Code](Windows-Forms/LAB3/LAB3-code/Form4.cs) | [Screenshot](Windows-Forms/LAB3/Screenshots/LAB3-4.md)     |
 
 ## Computer Graphics & Visualization 
-| LAB No: 📃                       | Code 💻                    | Screenshots 📱       |
-| :-----------------------------: |:-------------------------:| :------------------:|
+| LAB No: 📃                       | Code 💻                    | Screenshots 📱       | Notes            |
+| :-----------------------------: |:-------------------------:| :------------------:| :------------------:|
 
