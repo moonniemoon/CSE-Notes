@@ -37,7 +37,7 @@
 | ↳                               | [Code](Windows-Forms/LAB3/LAB3-code/Form3.cs) | [Screenshot](Windows-Forms/LAB3/Screenshots/LAB3-3.md)     |
 | ↳                               | [Code](Windows-Forms/LAB3/LAB3-code/Form4.cs) | [Screenshot](Windows-Forms/LAB3/Screenshots/LAB3-4.md)     |
 
-## Computer Graphics & Visualization 
+## Computer Graphics & Visualization (C++)
 | LAB No: 📃                       | Code 💻                    | Screenshots 📱       | Notes            |
 | :-----------------------------: |:-------------------------:| :------------------:| :------------------:|
 
