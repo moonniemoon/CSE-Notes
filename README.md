@@ -15,12 +15,12 @@
 
 | Project 📃                       | Code 💻                   | Description [BG] 📝  |
 | ------------------------------- |:------------------------:| :------------------:|
-| LAB 1                         | [Code](JAVA/LAB1/Code/Main.java) | [Description](JAVA/LAB1/2nd-1.pdf)     |
-| LAB 2                         | [Code](JAVA/LAB2/Code/Main.java) | [Description](JAVA/LAB2/2nd-5.pdf)     |
-| LAB 3                         | [Code](JAVA/LAB3/Code) | [Description](JAVA/LAB3/project02_merged.pdf)     |
-| LAB 4                         | [Code](JAVA/LAB4/Code/Main.java) | [Description](JAVA/LAB4/kp.pdf)     |
-| LAB 5                         | [Code](JAVA/LAB5/Code/Main.java) | [Description](JAVA/LAB5/str18.pdf)     |
-| LAB 6                         | [Code](JAVA/LAB6/Code/Main.java) | [Description](JAVA/LAB6/Project10mail.pdf)     |
+| LAB 1                         | [Code](JAVA/LAB 1/Code/Main.java) | [Description](JAVA/LAB 1/2nd-1.pdf)     |
+| LAB 2                         | [Code](JAVA/LAB 2/Code/Main.java) | [Description](JAVA/LAB 2/2nd-5.pdf)     |
+| LAB 3                         | [Code](JAVA/LAB 3/Code)           | [Description](JAVA/LAB 3/project02_merged.pdf)     |
+| LAB 4                         | [Code](JAVA/LAB 4/Code/Main.java) | [Description](JAVA/LAB 4/kp.pdf)     |
+| LAB 5                         | [Code](JAVA/LAB 5/Code/Main.java) | [Description](JAVA/LAB 5/str18.pdf)     |
+| LAB 6                         | [Code](JAVA/LAB 6/Code/Main.java) | [Description](JAVA/LAB 6/Project10mail.pdf)     |
 
 
 ## Windows Desktop Applications (C++)
