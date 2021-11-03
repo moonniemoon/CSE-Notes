@@ -46,6 +46,10 @@
 | LAB 4.2                         | [Code](Windows-Forms/LAB4/LAB4-2code/Form1.cs) | [Screenshot](Windows-Forms/LAB4/Screenshots/LAB4-2.md)     |
 | LAB 4.3                         | [Code](Windows-Forms/LAB4/LAB4-3code/Form1.cs) | [Screenshot](Windows-Forms/LAB4/Screenshots/LAB4-3.md)     |
 | LAB 4.4                         | [Code](Windows-Forms/LAB4/LAB4-4code/Form1.cs) | [Screenshot](Windows-Forms/LAB4/Screenshots/LAB4-4.md)     |
+| HW 1                            | [Code](Windows-Forms/Homework/Homework1code/Form1.cs) | [Screenshot](Windows-Forms/Homework/Screenshots/Homework1.md)     |
+| LAB 5.1                         | [Code](Windows-Forms/LAB5/LAB5-1code/Form1.cs) | [Screenshot](Windows-Forms/LAB5/Screenshots/LAB5-1.md)     |
+| LAB 5.2                         | [Code](Windows-Forms/LAB5/LAB5-2code/Form1.cs) | [Screenshot](Windows-Forms/LAB5/Screenshots/LAB5-2.md)     |
+| LAB 5.3                         | [Code](Windows-Forms/LAB5/LAB5-3code/Form1.cs) | [Screenshot](Windows-Forms/LAB5/Screenshots/LAB5-3.md)     |
 
 ## Computer Graphics & Visualization (C++)
 | LAB No: 📃                       | Code 💻                    | Screenshots 📱       | Notes            |
