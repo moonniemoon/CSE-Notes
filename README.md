@@ -28,7 +28,7 @@
 | Project 📃                       | Code 💻                   | Screenshots 📱       |
 | ------------------------------- |:------------------------:| :------------------:|
 
-
+<b>
 ## Windows Forms App (.NET Framework) (C#)
 | LAB No: 📃                       | Code 💻                    | Screenshots 📱       | LAB No: 📃                       | Code 💻                    | Screenshots 📱       |
 | :-----------------------------: |:-------------------------:| :------------------:| :--------------------------: |:-------------------------:| :------------------:|
@@ -50,7 +50,7 @@
 | LAB 5.1 | [Code](Windows-Forms/LAB5/LAB5-1code/Form1.cs) | [Screenshot](Windows-Forms/LAB5/Screenshots/LAB5-1.md)|
 | LAB 5.2 | [Code](Windows-Forms/LAB5/LAB5-2code/Form1.cs) | [Screenshot](Windows-Forms/LAB5/Screenshots/LAB5-2.md)|
 | LAB 5.3 | [Code](Windows-Forms/LAB5/LAB5-3code/Form1.cs) | [Screenshot](Windows-Forms/LAB5/Screenshots/LAB5-3.md)|
-
+</b>
 
 ## Computer Graphics & Visualization (C++)
 | LAB No: 📃                       | Code 💻                    | Screenshots 📱       | Notes            |
