@@ -32,7 +32,7 @@
 ## Windows Forms App (.NET Framework) (C#)
 | LAB No: 📃                       | Code 💻                    | Screenshots 📱       | LAB No: 📃                       | Code 💻                    | Screenshots 📱       |
 | :-----------------------------: |:-------------------------:| :------------------:| :--------------------------: |:-------------------------:| :------------------:|
-| LAB 1.1 | [Code](Windows-Forms/LAB1/LAB1-1code/Form1.cs) | [Screenshot](Windows-Forms/LAB1/Screenshots/LAB1-1.md)|LAB 6.1 | [Code](Windows-Forms/LAB1/LAB1-1code/Form1.cs) | [Screenshot](Windows-Forms/LAB1/Screenshots/LAB1-1.md)|
+| LAB 1.1 | [Code](Windows-Forms/LAB1/LAB1-1code/Form1.cs) | [Screenshot](Windows-Forms/LAB1/Screenshots/LAB1-1.md)|LAB 6.1 | [Code](Windows-Forms/LAB6/LAB6-1code/Form1.cs) | [Screenshot](Windows-Forms/LAB6/Screenshots/LAB6-1.md)|
 | LAB 1.2 | [Code](Windows-Forms/LAB1/LAB1-2code/Form1.cs) | [Screenshot](Windows-Forms/LAB1/Screenshots/LAB1-2.md)|
 | LAB 2.1 | [Code](Windows-Forms/LAB2/LAB2-1code/Form1.cs) | [Screenshot](Windows-Forms/LAB2/Screenshots/LAB2-1.md)|
 | LAB 2.2 | [Code](Windows-Forms/LAB2/LAB2-2code/Form1.cs) | [Screenshot](Windows-Forms/LAB2/Screenshots/LAB2-2.md)|
@@ -46,10 +46,12 @@
 | LAB 4.2 | [Code](Windows-Forms/LAB4/LAB4-2code/Form1.cs) | [Screenshot](Windows-Forms/LAB4/Screenshots/LAB4-2.md)|
 | LAB 4.3 | [Code](Windows-Forms/LAB4/LAB4-3code/Form1.cs) | [Screenshot](Windows-Forms/LAB4/Screenshots/LAB4-3.md)|
 | LAB 4.4 | [Code](Windows-Forms/LAB4/LAB4-4code/Form1.cs) | [Screenshot](Windows-Forms/LAB4/Screenshots/LAB4-4.md)|
-| HW 1    | [Code](Windows-Forms/Homework/Homework1code/Form1.cs) | [Screenshot](Windows-Forms/Homework/Screenshots/Homework1.md)|
+| HW 1    | [Code](Windows-Forms/HW1/HW1-code/Form1.cs) | [Screenshot](Windows-Forms/Homework/Screenshots/HW1.md)|
+| ↳       | [Code](Windows-Forms/HW1/HW1-code/Form2.cs) | [Screenshot](Windows-Forms/Homework/Screenshots/HW1.md)|
 | LAB 5.1 | [Code](Windows-Forms/LAB5/LAB5-1code/Form1.cs) | [Screenshot](Windows-Forms/LAB5/Screenshots/LAB5-1.md)|
 | LAB 5.2 | [Code](Windows-Forms/LAB5/LAB5-2code/Form1.cs) | [Screenshot](Windows-Forms/LAB5/Screenshots/LAB5-2.md)|
 | LAB 5.3 | [Code](Windows-Forms/LAB5/LAB5-3code/Form1.cs) | [Screenshot](Windows-Forms/LAB5/Screenshots/LAB5-3.md)|
+| ↳       | [Code](Windows-Forms/LAB5/LAB5-3code/Form2.cs) | [Screenshot](Windows-Forms/LAB5/Screenshots/LAB5-3.md)|
 
   
 ## Computer Graphics & Visualization (C++)
