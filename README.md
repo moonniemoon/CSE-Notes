@@ -32,7 +32,7 @@
 ## Windows Forms App (.NET Framework) (C#)
 | LAB No: 📃                       | Code 💻                    | Screenshots 📱       | LAB No: 📃                       | Code 💻                    | Screenshots 📱       |
 | :-----------------------------: |:-------------------------:| :------------------:| :--------------------------: |:-------------------------:| :------------------:|
-| LAB 1.1 | [Code](Windows-Forms/LAB1/LAB1-1code/Form1.cs) | [Screenshot](Windows-Forms/LAB1/Screenshots/LAB1-1.md)|LAB 6.1 | [Code](Windows-Forms/LAB6/LAB6-1code/Form1.cs) | [Screenshot](Windows-Forms/LAB6/Screenshots/LAB6-1.md)|
+| LAB 1.1 | [Code](Windows-Forms/LAB1/LAB1-1code/Form1.cs) | [Screenshot](Windows-Forms/LAB1/Screenshots/LAB1-1.md)|
 | LAB 1.2 | [Code](Windows-Forms/LAB1/LAB1-2code/Form1.cs) | [Screenshot](Windows-Forms/LAB1/Screenshots/LAB1-2.md)|
 | LAB 2.1 | [Code](Windows-Forms/LAB2/LAB2-1code/Form1.cs) | [Screenshot](Windows-Forms/LAB2/Screenshots/LAB2-1.md)|
 | LAB 2.2 | [Code](Windows-Forms/LAB2/LAB2-2code/Form1.cs) | [Screenshot](Windows-Forms/LAB2/Screenshots/LAB2-2.md)|
@@ -52,7 +52,7 @@
 | LAB 5.2 | [Code](Windows-Forms/LAB5/LAB5-2code/Form1.cs) | [Screenshot](Windows-Forms/LAB5/Screenshots/LAB5-2.md)|
 | LAB 5.3 | [Code](Windows-Forms/LAB5/LAB5-3code/Form1.cs) | [Screenshot](Windows-Forms/LAB5/Screenshots/LAB5-3.md)|
 | ↳       | [Code](Windows-Forms/LAB5/LAB5-3code/Form2.cs) | [Screenshot](Windows-Forms/LAB5/Screenshots/LAB5-3.md)|
-
+| LAB 6.1 | [Code](Windows-Forms/LAB6/LAB6-1code/Form1.cs) | [Screenshot](Windows-Forms/LAB6/Screenshots/LAB6-1.md)|
   
 ## Computer Graphics & Visualization (C++)
 | LAB No: 📃                       | Code 💻                    | Screenshots 📱       | Notes            |
