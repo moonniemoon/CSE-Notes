@@ -34,7 +34,7 @@
 | LAB 8 | [Code](Win-Desktop/LAB8/LAB8.cpp) | [Screenshot](Win-Desktop/LAB8/LAB8.md)| [PDF](Win-Desktop/)| 
 | LAB 9 | [Code](Win-Desktop/LAB9/LAB9.cpp) | [Screenshot](Win-Desktop/LAB9/LAB9.md)| [PDF](Win-Desktop/)| 
 | LAB 10 | [Code](Win-Desktop/LAB10/LAB10.cpp) | [Screenshot](Win-Desktop/LAB10/LAB10.md)| [PDF](Win-Desktop/)| 
-| LAB 11 | [Code](Win-Desktop/LAB11/LAB11.cpp) | [Screenshot](Win-Desktop/LAB11/LAB11.md)| [PDF](Win-Desktop/)| 
+| LAB 11 | [Code](Win-Desktop/LAB11/LAB11.cpp) | [Screenshot](Win-Desktop/LAB11/LAB11.md)| [PDF](Win-Desktop/LAB10/Lab_10.pdf)| 
 | Test 1 | [Code](Win-Desktop/Test1/Test1.cpp) | [Screenshot](Win-Desktop/Test1/Test1.md)| [PDF](Win-Desktop/)| 
 | Test 2 | [Code](Win-Desktop/Test2/Test2.cpp) | [Screenshot](Win-Desktop/Test2/Test2.md)| [PDF](Win-Desktop/)| 
 | Example 1 | [Code](Win-Desktop/EXAMPLE1/EXAMPLE1.CPP) | [Screenshot](Win-Desktop/EXAMPLE1/EXAMPLE1.md)| [PDF](Win-Desktop/)| 
