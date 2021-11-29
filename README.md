@@ -54,13 +54,19 @@
 | ↳       | [Code](Windows-Forms/LAB5/LAB5-3code/Form2.cs) | [Screenshot](Windows-Forms/LAB5/Screenshots/LAB5-3.md)|
 | LAB 6   | [Code](Windows-Forms/LAB6/LAB6-1code/Form1.cs) | [Screenshot](Windows-Forms/LAB6/Screenshots/LAB6-1.md)|
   
+
+## Data Bases (SQL)
+| LAB No: 📃                      | Code 💻 | PDF            | 
+| :-----------------------------: |:-------------------------:| 
+| LAB DDL-DML Commands - 1        |[Code]()| 
+| LAB DDL-DML Commands - 2        |[Code]()| 
+| Homework - 1                    |[PDF]()|  
+| Semester Project DDL-DML Check  |[PDF]()| 
+| LAB DDL-DML Commands - 3        |[Code]()|
+| Homework - 2                    |[PDF]()| 
+
+
+
 ## Computer Graphics & Visualization (C++)
 | LAB No: 📃                       | Code 💻                    | Screenshots 📱       | Notes            |
 | :-----------------------------: |:-------------------------:| :------------------:| :------------------:|
-
-
-## Data Bases (SQL)
-| LAB No: 📃                       | Code 💻                    | Screenshots 📱       | Notes            |
-| :-----------------------------: |:-------------------------:| :------------------:| :------------------:|
-
-
