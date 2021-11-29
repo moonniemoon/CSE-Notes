@@ -2,8 +2,6 @@
 //
 
 #include "framework.h"
-#include "strsafe.h"
-#include <string>
 #include "LabDialogBox.h"
 
 #define MAX_LOADSTRING 100
@@ -11,7 +9,6 @@
 // Global Variables:
 HINSTANCE hInst;                                // current instance
 WCHAR szTitle[MAX_LOADSTRING];                  // The title bar text
-WCHAR szText[MAX_LOADSTRING];
 WCHAR szWindowClass[MAX_LOADSTRING];            // the main window class name
 HWND hDlgModeless;								// the modeless dialog box
 
@@ -176,7 +173,6 @@ LRESULT CALLBACK WndProc(HWND hWnd, UINT message, WPARAM wParam, LPARAM lParam)
 INT_PTR CALLBACK About(HWND hDlg, UINT message, WPARAM wParam, LPARAM lParam)
 {
 	UNREFERENCED_PARAMETER(lParam);
-    
 	switch (message)
 	{
 	case WM_INITDIALOG:
@@ -202,110 +198,18 @@ INT_PTR CALLBACK About(HWND hDlg, UINT message, WPARAM wParam, LPARAM lParam)
 INT_PTR CALLBACK MyFirstDialog(HWND hDlg, UINT message, WPARAM wParam, LPARAM lParam)
 {
 	UNREFERENCED_PARAMETER(lParam);
-    UINT PLUS, MINUS, MUL, DIVISION, MUL_7, DIV_7;
-    double d_A, d_B, d_Res;
-    BOOL bSigned, bSuccess;
-    double dVal;
-    std::string::size_type sz;
 
 	switch (message)
 	{
-    case WM_INITDIALOG: 
-        CheckDlgButton(hDlg, IDC_RADIO2, BST_CHECKED);
-        return (INT_PTR)TRUE;
-        SetFocus(GetDlgItem(hDlg, IDC_BUTTON4));
-        return (INT_PTR)FALSE;
+	case WM_INITDIALOG:
+		return (INT_PTR)TRUE;
 
 	case WM_COMMAND:
 		int wmId = LOWORD(wParam);
 		switch (wmId)
 		{
-        case WM_INITDIALOG:
-            SetFocus(GetDlgItem(hDlg, IDC_A));
-            return (INT_PTR)TRUE;
-
-        case IDC_CALCULATE:
-            PLUS = IsDlgButtonChecked(hDlg, IDC_PLUS);
-            MINUS = IsDlgButtonChecked(hDlg, IDC_MINUS);
-            MUL = IsDlgButtonChecked(hDlg, IDC_MUL);
-            DIVISION = IsDlgButtonChecked(hDlg, IDC_DIVISION);
-
-            MUL_7 = IsDlgButtonChecked(hDlg, IDC_TIMES_7);
-            PLUS = IsDlgButtonChecked(hDlg, IDC_DIV_7);
-
-            try {
-                if (!GetDlgItemText(hDlg, IDC_A, szText, MAX_LOADSTRING))
-                    *szText = 0;
-                d_A = std::stod(szText, &sz);
-            }
-            catch (std::exception& e) {
-                MessageBox(hDlg, L"Error to extract double value", L"Error!", 
-                    MB_ICONERROR | MB_OK);
-                d_A = 0.0;
-            }
-            try {
-                if (!GetDlgItemText(hDlg, IDC_B, szText, MAX_LOADSTRING))
-                    *szText = 0;
-                d_B = std::stod(szText, &sz);
-            }
-            catch (std::exception& e) {
-                MessageBox(hDlg, L"Error to extract double value", L"Error!",
-                    MB_ICONERROR | MB_OK);
-                d_B = 0.0;
-            }
-            
-
-            if (PLUS == BST_CHECKED) {
-                d_Res = d_A + d_B;
-            }
-            else if (MINUS == BST_CHECKED) {
-                d_Res = d_A - d_B;
-            }
-            else if (MINUS == BST_CHECKED) {
-                d_Res = d_A * d_B;
-            }
-            else {
-                d_Res = d_A / d_B;
-            }
-
-            if (IsDlgButtonChecked(hDlg, IDC_TIMES_7)) {
-                d_Res = d_Res * 7;
-            }
-            else {
-                d_Res = d_Res / 7;
-            }
-
-            StringCbPrintf(szText, ARRAYSIZE(szText), L"%f", d_Res);
-            SetDlgItemText(hDlg, IDC_RESULT, szText);
-            return (INT_PTR)TRUE;
-            
-            return (INT_PTR)TRUE;
-
-
-
-        /*case IDC_CHECK_RO:
-            status = IsDlgButtonChecked(hDlg, IDC_CHECK_RO);
-            MessageBox(hDlg, status == BST_CHECKED ? L"\"Checked" : L"\"Unchecked",
-                L"Info", MB_OK);
-            return (INT_PTR)TRUE;
-
-        case IDC_RADIO_ADULT:
-
-        case IDC_RADIO_CHILD:
-            SetDlgItemInt(hDlg, IDC_EDIT_EGN, IsDlgButtonChecked(hDlg, IDC_RADIO_ADULT),
-                FALSE);
-            return (INT_PTR)TRUE;
-
-        case IDC_CHECK_HIDDEN:
-            status = IsDlgButtonChecked(hDlg, IDC_CHECK_HIDDEN);
-            StringCbPrintf(szText, ARRAYSIZE(szText), L"Checkbox Hidden is %s",
-                status == BST_CHECKED ? L"\"Checked\"" : L"\"Unchecked\"");
-            SetDlgItemText(hDlg, IDC_EDIT_EGN, szText);
-            return (INT_PTR)TRUE;*/
-
-
-        case IDCANCEL:                          // X button
-		case IDC_BUTTON3:                       // Krai button
+		case IDOK:
+		case IDCANCEL:
 			EndDialog(hDlg, LOWORD(wParam));
 			return (INT_PTR)TRUE;
 		}
