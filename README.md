@@ -35,7 +35,7 @@
 | LAB 7 | [Code](Win-Desktop/) | [Screenshot](Win-Desktop/)| [PDF](Win-Desktop/)| 
 | LAB 8 | [Code](Win-Desktop/) | [Screenshot](Win-Desktop/)| [PDF](Win-Desktop/)| 
 | LAB 9 | [Code](Win-Desktop/) | [Screenshot](Win-Desktop/)| [PDF](Win-Desktop/)| 
-| LAB 10 | [Code](Win-Desktop/ | [Screenshot](Win-Desktop/)| [PDF](Win-Desktop/)| 
+| LAB 10 | [Code](Win-Desktop/) | [Screenshot](Win-Desktop/)| [PDF](Win-Desktop/)| 
 | LAB 11 | [Code](Win-Desktop/) | [Screenshot](Win-Desktop/)| [PDF](Win-Desktop/)| 
 | LAB 12 | [Code](Win-Desktop/) | [Screenshot](Win-Desktop/)| [PDF](Win-Desktop/)| 
 | LAB 13 | [Code](Win-Desktop/) | [Screenshot](Win-Desktop/)| [PDF](Win-Desktop/)| 
