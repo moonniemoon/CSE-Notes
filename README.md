@@ -58,11 +58,11 @@
 ## Data Bases (SQL)
 | LAB No: 📃                      | Code 💻 or  PDF          | 
 | ------------------------------- |:-------------------------:| 
-| DDL-DML Commands - 1            |[Code](SQL/LAB7/)| 
-| DDL-DML Commands - 2            |[Code](SQL/LAB8/)| 
+| DDL-DML Commands - 1            |[Code](SQL/LAB7/lab7.sql)| 
+| DDL-DML Commands - 2            |[Code](SQL/LAB8/lab8.sql)| 
 | Assignment - 1                  |[PDF - BG](SQL/Assignment-1/hw1.pdf)|  
-| Semester Project DDL-DML Check  |[PDF - BG](SQL/)| 
-| DDL-DML Commands - 3            |[Code](SQL/LAB9/)|
+| Semester Project DDL-DML Check  |[PDF - BG](SQL/Variant9-DDL-DML.pdf)| 
+| DDL-DML Commands - 3            |[Code](SQL/LAB9/lab9.sql)|
 | Assignment - 2                  |[PDF - BG](SQL/Assignment-2/hw2.pdf)| 
 
 
