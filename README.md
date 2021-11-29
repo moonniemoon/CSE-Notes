@@ -27,19 +27,19 @@
 
 | Project 📃                       | Code 💻                   | Screenshots 📱    | PDF                 |
 | ------------------------------- |:------------------------:| :------------------:| :-------------------:|
-| LAB 2 | [Code](Win-Desktop/) | [Screenshot](Win-Desktop/)| [PDF](Win-Desktop/)| 
-| LAB 3 | [Code](Win-Desktop/) | [Screenshot](Win-Desktop/)| [PDF](Win-Desktop/)| 
-| LAB 4 | [Code](Win-Desktop/) | [Screenshot](Win-Desktop/)| [PDF](Win-Desktop/)| 
-| LAB 5 | [Code](Win-Desktop/) | [Screenshot](Win-Desktop/)| [PDF](Win-Desktop/)| 
-| LAB 6 | [Code](Win-Desktop/) | [Screenshot](Win-Desktop/)| [PDF](Win-Desktop/)| 
-| LAB 7 | [Code](Win-Desktop/) | [Screenshot](Win-Desktop/)| [PDF](Win-Desktop/)| 
-| LAB 8 | [Code](Win-Desktop/) | [Screenshot](Win-Desktop/)| [PDF](Win-Desktop/)| 
-| LAB 9 | [Code](Win-Desktop/) | [Screenshot](Win-Desktop/)| [PDF](Win-Desktop/)| 
-| LAB 10 | [Code](Win-Desktop/) | [Screenshot](Win-Desktop/)| [PDF](Win-Desktop/)| 
-| LAB 11 | [Code](Win-Desktop/) | [Screenshot](Win-Desktop/)| [PDF](Win-Desktop/)| 
-| LAB 12 | [Code](Win-Desktop/) | [Screenshot](Win-Desktop/)| [PDF](Win-Desktop/)| 
-| LAB 13 | [Code](Win-Desktop/) | [Screenshot](Win-Desktop/)| [PDF](Win-Desktop/)| 
-| Extra | [Code](Win-Desktop/) | [Screenshot](Win-Desktop/)| [PDF](Win-Desktop/)| 
+| LAB 3 | [Code](Win-Desktop/LAB3/LAB3.cpp) | [Screenshot](Win-Desktop/LAB3/LAB3.md)| [PDF](Win-Desktop/)| 
+| LAB 4 | [Code](Win-Desktop/LAB4/LAB4.cpp) | [Screenshot](Win-Desktop/LAB4/LAB4.md)| [PDF](Win-Desktop/)| 
+| LAB 6 | [Code](Win-Desktop/LAB6/LAB6.cpp) | [Screenshot](Win-Desktop/LAB6/LAB6.md)| [PDF](Win-Desktop/)| 
+| LAB 7 | [Code](Win-Desktop/LAB7/LAB7.cpp) | [Screenshot](Win-Desktop/LAB7/LAB7.md)| [PDF](Win-Desktop/)| 
+| LAB 8 | [Code](Win-Desktop/LAB8/LAB8.cpp) | [Screenshot](Win-Desktop/LAB8/LAB8.md)| [PDF](Win-Desktop/)| 
+| LAB 9 | [Code](Win-Desktop/LAB9/LAB9.cpp) | [Screenshot](Win-Desktop/LAB9/LAB9.md)| [PDF](Win-Desktop/)| 
+| LAB 10 | [Code](Win-Desktop/LAB10/LAB10.cpp) | [Screenshot](Win-Desktop/LAB10/LAB10.md)| [PDF](Win-Desktop/)| 
+| LAB 11 | [Code](Win-Desktop/LAB11/LAB11.cpp) | [Screenshot](Win-Desktop/LAB11/LAB11.md)| [PDF](Win-Desktop/)| 
+| Test 1 | [Code](Win-Desktop/Test1/Test1.cpp) | [Screenshot](Win-Desktop/Test1/Test1.md)| [PDF](Win-Desktop/)| 
+| Test 2 | [Code](Win-Desktop/Test2/Test2.cpp) | [Screenshot](Win-Desktop/Test2/Test2.md)| [PDF](Win-Desktop/)| 
+| Example 1 | [Code](Win-Desktop/EXAMPLE1/EXAMPLE1.cpp) | [Screenshot](Win-Desktop/EXAMPLE1/EXAMPLE1.md)| [PDF](Win-Desktop/)| 
+| Example 2 | [Code](Win-Desktop/EXAMPLE2/EXAMPLE2.cpp) | [Screenshot](Win-Desktop/EXAMPLE2/EXAMPLE2.md)| [PDF](Win-Desktop/)| 
+| Example 3 | [Code](Win-Desktop/EXAMPLE3/EXAMPLE3.cpp) | [Screenshot](Win-Desktop/EXAMPLE3/EXAMPLE3.md)| [PDF](Win-Desktop/)| 
 
 
 ## Windows Forms App (.NET Framework) (C#)
