@@ -58,12 +58,12 @@
 ## Data Bases (SQL)
 | LAB No: 📃                      | Code 💻 or  PDF          | 
 | ------------------------------- |:-------------------------:| 
-| DDL-DML Commands - 1            |[Code](Windows-Forms/LAB6/LAB6-1code/Form1.cs)| 
-| DDL-DML Commands - 2            |[Code](Windows-Forms/LAB6/LAB6-1code/Form1.cs)| 
-| Assignment - 1                    |[PDF](SQL/Assignment-1/hw1.pdf)|  
-| Semester Project DDL-DML Check  |[PDF](Windows-Forms/LAB6/LAB6-1code/Form1.cs)| 
-| DDL-DML Commands - 3            |[Code](Windows-Forms/LAB6/LAB6-1code/Form1.cs)|
-| Assignment - 2                    |[PDF](Windows-Forms/LAB6/LAB6-1code/Form1.cs)| 
+| DDL-DML Commands - 1            |[Code](SQL/LAB7/)| 
+| DDL-DML Commands - 2            |[Code](SQL/LAB8/)| 
+| Assignment - 1                  |[PDF - BG](SQL/Assignment-1/hw1.pdf)|  
+| Semester Project DDL-DML Check  |[PDF - BG](SQL/)| 
+| DDL-DML Commands - 3            |[Code](SQL/LAB9/)|
+| Assignment - 2                  |[PDF - BG](SQL/Assignment-2/hw2.pdf)| 
 
 
 
