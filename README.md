@@ -3,8 +3,8 @@
 
 | Project 📃                       | Code 💻                   | Documentation [BG] 📑 |
 | ------------------------------- |:------------------------:| :------------------:|
-| Airport Management System       | [Code](FINAL/FINAL/Source.cpp)      | [Documentation](Documentation.pdf)     |
-| Library Management System       | [Code](Library.cpp)      | [Documentation](Semester_Project.pdf)     |
+| Airport Management System       | [Code](FINAL/FINAL/Source.cpp)| [Documentation](Documentation.pdf) |
+| Library Management System       | [Code](Library.cpp)      | [Documentation](Semester_Project.pdf)   |
 | Car Radar System                | [Code](Radar.cpp)        |          -          |
 | Car License Plate Check         | [Code](LicensePlate.cpp) |          -          |
 | EGN Check                       | [Code](EGN.cpp)          |          -          |
@@ -25,8 +25,21 @@
 
 ## Windows Desktop Applications (C++)
 
-| Project 📃                       | Code 💻                   | Screenshots 📱       |
-| ------------------------------- |:------------------------:| :------------------:|
+| Project 📃                       | Code 💻                   | Screenshots 📱    | PDF                 |
+| ------------------------------- |:------------------------:| :------------------:| :-------------------:|
+| LAB 2 | [Code](Win-Desktop/) | [Screenshot](Win-Desktop/)| [PDF](Win-Desktop/)| 
+| LAB 3 | [Code](Win-Desktop/) | [Screenshot](Win-Desktop/)| [PDF](Win-Desktop/)| 
+| LAB 4 | [Code](Win-Desktop/) | [Screenshot](Win-Desktop/)| [PDF](Win-Desktop/)| 
+| LAB 5 | [Code](Win-Desktop/) | [Screenshot](Win-Desktop/)| [PDF](Win-Desktop/)| 
+| LAB 6 | [Code](Win-Desktop/) | [Screenshot](Win-Desktop/)| [PDF](Win-Desktop/)| 
+| LAB 7 | [Code](Win-Desktop/) | [Screenshot](Win-Desktop/)| [PDF](Win-Desktop/)| 
+| LAB 8 | [Code](Win-Desktop/) | [Screenshot](Win-Desktop/)| [PDF](Win-Desktop/)| 
+| LAB 9 | [Code](Win-Desktop/) | [Screenshot](Win-Desktop/)| [PDF](Win-Desktop/)| 
+| LAB 10 | [Code](Win-Desktop/ | [Screenshot](Win-Desktop/)| [PDF](Win-Desktop/)| 
+| LAB 11 | [Code](Win-Desktop/) | [Screenshot](Win-Desktop/)| [PDF](Win-Desktop/)| 
+| LAB 12 | [Code](Win-Desktop/) | [Screenshot](Win-Desktop/)| [PDF](Win-Desktop/)| 
+| LAB 13 | [Code](Win-Desktop/) | [Screenshot](Win-Desktop/)| [PDF](Win-Desktop/)| 
+| Extra | [Code](Win-Desktop/) | [Screenshot](Win-Desktop/)| [PDF](Win-Desktop/)| 
 
 
 ## Windows Forms App (.NET Framework) (C#)
@@ -58,11 +71,11 @@
 ## Data Bases (SQL)
 | LAB No: 📃                      | Code 💻 or  PDF          | 
 | ------------------------------- |:-------------------------:| 
-| Self - Study Notes              |[PDF - EN](SQL/Self-Study/SQL.pdf)|
+| Self - Study Notes              |[PDF](SQL/Self-Study/SQL.pdf)| 
 | DDL-DML Commands - 1            |[Code](SQL/LAB7/lab7.sql)| 
 | DDL-DML Commands - 2            |[Code](SQL/LAB8/lab8.sql)| 
 | Assignment - 1                  |[PDF - BG](SQL/Assignment-1/hw1.pdf)|  
-| Semester Project DDL-DML Check  |[PDF - BG](SQL/Project/Variant9-DDL-DML.pdf)| 
+| Semester Project DDL-DML Check  |[PDF - BG](SQL/Variant9-DDL-DML.pdf)| 
 | DDL-DML Commands - 3            |[Code](SQL/LAB9/lab9.sql)|
 | Assignment - 2                  |[PDF - BG](SQL/Assignment-2/hw2.pdf)| 
 
