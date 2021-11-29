@@ -60,7 +60,7 @@
 | ------------------------------- |:-------------------------:| 
 | DDL-DML Commands - 1            |[Code](Windows-Forms/LAB6/LAB6-1code/Form1.cs)| 
 | DDL-DML Commands - 2            |[Code](Windows-Forms/LAB6/LAB6-1code/Form1.cs)| 
-| Assignment - 1                    |[PDF](SQL/Assignment1/hw1.pdf)|  
+| Assignment - 1                    |[PDF](SQL/Assignment-1/hw1.pdf)|  
 | Semester Project DDL-DML Check  |[PDF](Windows-Forms/LAB6/LAB6-1code/Form1.cs)| 
 | DDL-DML Commands - 3            |[Code](Windows-Forms/LAB6/LAB6-1code/Form1.cs)|
 | Assignment - 2                    |[PDF](Windows-Forms/LAB6/LAB6-1code/Form1.cs)| 
