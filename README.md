@@ -35,11 +35,11 @@
 | LAB 9 | [Code](Win-Desktop/LAB9/LAB9.cpp) | [Screenshot](Win-Desktop/LAB9/LAB9.md)| [PDF](Win-Desktop/LAB9/Lab09.pdf)| 
 | LAB 10 | [Code](Win-Desktop/LAB10/LAB10.cpp) | [Screenshot](Win-Desktop/LAB10/LAB10.md)| [PDF](Win-Desktop/LAB10/Lab10.pdf)| 
 | LAB 11 | [Code](Win-Desktop/LAB11/LAB11.cpp) | [Screenshot](Win-Desktop/LAB11/LAB11.md)| [PDF](Win-Desktop/LAB11/Lab11.pdf)| 
-| Test 1 | [Code](Win-Desktop/Test1/Test1.cpp) | [Screenshot](Win-Desktop/Test1/Test1.md)| [-]| 
-| Test 2 | [Code](Win-Desktop/Test2/Test2.cpp) | [Screenshot](Win-Desktop/Test2/Test2.md)| [-]| 
-| Example 1 | [Code](Win-Desktop/EXAMPLE1/EXAMPLE1.CPP) | [Screenshot](Win-Desktop/EXAMPLE1/EXAMPLE1.md)| [-]| 
-| Example 2 | [Code](Win-Desktop/EXAMPLE2/EXAMPLE2.cpp) | [Screenshot](Win-Desktop/EXAMPLE2/EXAMPLE2.md)| [-]| 
-| Example 3 | [Code](Win-Desktop/EXAMPLE3/EXAMPLE3.cpp) | [Screenshot](Win-Desktop/EXAMPLE3/EXAMPLE3.md)| [-]| 
+| Test 1 | [Code](Win-Desktop/Test1/Test1.cpp) | [Screenshot](Win-Desktop/Test1/Test1.md)| - | 
+| Test 2 | [Code](Win-Desktop/Test2/Test2.cpp) | [Screenshot](Win-Desktop/Test2/Test2.md)| - | 
+| Example 1 | [Code](Win-Desktop/EXAMPLE1/EXAMPLE1.CPP) | [Screenshot](Win-Desktop/EXAMPLE1/EXAMPLE1.md)| - | 
+| Example 2 | [Code](Win-Desktop/EXAMPLE2/EXAMPLE2.cpp) | [Screenshot](Win-Desktop/EXAMPLE2/EXAMPLE2.md)| - | 
+| Example 3 | [Code](Win-Desktop/EXAMPLE3/EXAMPLE3.cpp) | [Screenshot](Win-Desktop/EXAMPLE3/EXAMPLE3.md)| - | 
 
 
 ## Windows Forms App (.NET Framework) (C#)
