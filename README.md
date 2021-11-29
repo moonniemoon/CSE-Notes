@@ -58,6 +58,7 @@
 ## Data Bases (SQL)
 | LAB No: 📃                      | Code 💻 or  PDF          | 
 | ------------------------------- |:-------------------------:| 
+| Self - Study Notes              |[PDF](SQL/Self-Study/SQL.pdf)| 
 | DDL-DML Commands - 1            |[Code](SQL/LAB7/lab7.sql)| 
 | DDL-DML Commands - 2            |[Code](SQL/LAB8/lab8.sql)| 
 | Assignment - 1                  |[PDF - BG](SQL/Assignment-1/hw1.pdf)|  
