@@ -56,7 +56,7 @@
   
 
 ## Data Bases (SQL)
-| LAB No: 📃                      | Code 💻 | PDF            | 
+| LAB No: 📃                      | Code 💻 or  PDF          | 
 | :-----------------------------: |:-------------------------:| 
 | LAB DDL-DML Commands - 1        |[Code](Windows-Forms/LAB6/LAB6-1code/Form1.cs)| 
 | LAB DDL-DML Commands - 2        |[Code](Windows-Forms/LAB6/LAB6-1code/Form1.cs)| 
