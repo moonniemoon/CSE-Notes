@@ -27,7 +27,7 @@
 
 | Project 📃                       | Code 💻                   | Screenshots 📱    | PDF                 |
 | ------------------------------- |:------------------------:| :------------------:| :-------------------:|
-| LAB 3 | [Code](Win-Desktop/LAB3/LAB3.cpp) | [Screenshot](Win-Desktop/LAB3/LAB3.md)| [PDF](Win-Desktop/)| 
+| LAB 3 | [Code](Win-Desktop/LAB3/LAB3.CPP) | [Screenshot](Win-Desktop/LAB3/LAB3.md)| [PDF](Win-Desktop/)| 
 | LAB 4 | [Code](Win-Desktop/LAB4/LAB4.cpp) | [Screenshot](Win-Desktop/LAB4/LAB4.md)| [PDF](Win-Desktop/)| 
 | LAB 6 | [Code](Win-Desktop/LAB6/LAB6.cpp) | [Screenshot](Win-Desktop/LAB6/LAB6.md)| [PDF](Win-Desktop/)| 
 | LAB 7 | [Code](Win-Desktop/LAB7/LAB7.cpp) | [Screenshot](Win-Desktop/LAB7/LAB7.md)| [PDF](Win-Desktop/)| 
