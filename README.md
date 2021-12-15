@@ -4,11 +4,11 @@
 | Project 📃                       | Code 💻                   | Documentation [BG] 📑 |
 | ------------------------------- |:------------------------:| :------------------:|
 | Airport Management System       | [Code](FINAL/FINAL/Source.cpp)| [Documentation](Documentation.pdf) |
-| Library Management System       | [Code](Library.cpp)      | [Documentation](Semester_Project.pdf)   |
-| Car Radar System                | [Code](Radar.cpp)        |          -          |
-| Car License Plate Check         | [Code](LicensePlate.cpp) |          -          |
-| EGN Check                       | [Code](EGN.cpp)          |          -          |
-| Lottery Guessing                | [Code](Lottery.cpp)      |          -          |
+| Library Management System       | [Code](CPP/2/Library.cpp)      | [Documentation](Semester_Project.pdf)   |
+| Car Radar System                | [Code](CPP/3/Radar.cpp)        |          -          |
+| Car License Plate Check         | [Code](CPP/4/LicensePlate.cpp) |          -          |
+| EGN Check                       | [Code](CPP/5/EGN.cpp)          |          -          |
+| Lottery Guessing                | [Code](CPP/6/Lottery.cpp)      |          -          |
 
 
 ## JAVA (OOP)
