@@ -80,7 +80,4 @@
 | Assignment - 2                  |[PDF - BG](SQL/Assignment-2/hw2.pdf)| 
 
 
-
-## Computer Graphics & Visualization (C++)
-| LAB No: 📃                       | Code 💻                    | Screenshots 📱       | Notes            |
-| :-----------------------------: |:-------------------------:| :------------------:| :------------------:|
+# To be continued...
